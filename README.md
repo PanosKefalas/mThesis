@@ -13,6 +13,19 @@ investigated. Machine learning and statistical models are being utilized to fill
 forecast air pollutants future values. Their integrity is being validated. Results were accurate
 concerning most pollutants after proper model calibration.
 
-### Keywords
+## Keywords
 Air quality; Air pollution; Data analysis; Air quality sensors; Descriptive statistics;
 Machine learning; Hydrogen Sulfide; Forecasting
+
+## Libraries used 
+
+* Pandas (McKinney, 2010)
+* Numpy (Harris, Millman, van, & S.J., 2020)
+* Matplotlib (Hunter, 2007)
+* Seaborn (Waskom, 2021)
+* Statsmodels (Seabold & Perktold, 2010)
+* Windrose (Roubeyrie & Celles, 2018)
+* Scipy (Virtanen, et al., 2020)
+* Scikit-learn (Pedregosa, et al., 2011)
+* MiniSom (Vettigli, 2018)
+* PyCaret (Ali M. , 2020)
